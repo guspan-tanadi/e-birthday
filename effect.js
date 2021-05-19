@@ -11,7 +11,7 @@ $('document').ready(function(){
 			$('#b22').animate({top:240, left: vw-250},500);
 			$('#b33').animate({top:230, left: vw-150},500);
 			$('#b44').animate({top:169, left: vw-50},500);
-			$('#b55').animate({top:230, left: vw+45},500);
+			$('#b55').animate({top:230, left: vw+30},500);
 			$('#b66').animate({top:240, left: vw+150},500);
 			$('#b77').animate({top:240, left: vw+250},500);
 		});
@@ -154,7 +154,7 @@ $('document').ready(function(){
 		$('#b22').animate({top:240, left: vw-250},500);
 		$('#b33').animate({top:230, left: vw-150},900);
 		$('#b44').animate({top:169, left: vw-50},300);
-		$('#b55').animate({top:230, left: vw+45},900);
+		$('#b55').animate({top:230, left: vw+30},900);
 		$('#b66').animate({top:240, left: vw+150},500);
 		$('#b77').animate({top:240, left: vw+250},500);
 		$('.balloons').css('opacity','0.9');
